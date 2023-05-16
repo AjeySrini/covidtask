@@ -1,8 +1,10 @@
 var div=document.createElement("div");
+div.style.marginTop="20px";
 
 var h1 =document.createElement("h1");
 h1.innerHTML="COVID-19 TRACKER";
 h1.style.textAlign="center";
+h1.style.marginTop="20px";
 
 var input=document.createElement("input");
 div.style.textAlign="center";
